@@ -14,9 +14,6 @@
 - ⚡ Fun fact **I think I'm funny**
 
 <hr/>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=charindu36&label=Profile%20views&color=0e75b6&style=flat" alt="charindu36" /> </p>
-
-  <hr/>
 
 <h3 align="left">Socials:</h3> <h1></h1>
 <p align="left">
