@@ -12,7 +12,7 @@ I'm a tech enthusiast and student passionate about Software Development and Info
 
 <hr>
 <h3>📈 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charindu36&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="charindu36's GitHub Stats" />
+
 
 <hr>
 <h3>🔗 Connect With Me</h3>
