@@ -12,7 +12,7 @@ I'm a tech enthusiast and student passionate about Software Development and Info
 
 <hr>
 <h3>📈 GitHub Stats</h3>
-
+<img src="https://streak-stats.demolab.com?user=charindu36&theme=default&hide_border=true" alt="charindu36's GitHub Stats" />
 
 <hr>
 <h3>🔗 Connect With Me</h3>
